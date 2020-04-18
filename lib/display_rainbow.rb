@@ -2,7 +2,7 @@
 
 display_rainbow=["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-def display_rainbow 
+def display_rainbow ()
 puts "the first letter is {R: red [0]} "
 puts "the second letter is {O: orange [1]}"
 puts "the third letter is {Y: yellow [2]}"

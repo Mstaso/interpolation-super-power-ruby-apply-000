@@ -9,6 +9,6 @@ puts "color [5]"
 puts "color [6]"
 end
 
-color=["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+
 
 

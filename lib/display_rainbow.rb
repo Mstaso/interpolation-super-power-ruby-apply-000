@@ -11,4 +11,5 @@ puts "the sixth color is {I: indigo [5]}"
 puts "the seventh color is {V: violet [6]}"
 end
 
-def display_rainbow ()
+def display_rainbow (color)
+  

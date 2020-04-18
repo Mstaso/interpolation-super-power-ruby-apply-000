@@ -9,4 +9,4 @@ puts "the sixth letter is {I [5]}"
 puts "the seventh letter is {V [6]}"
 end
 
-display_rainbow=
+display_rainbow="red", ""

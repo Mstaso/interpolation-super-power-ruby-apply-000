@@ -20,5 +20,5 @@ puts "color [5]"
 puts "color [6]"
 end
 
-color=
+color=[red, orange, yellow, green]
 

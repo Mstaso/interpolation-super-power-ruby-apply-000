@@ -1,8 +1,7 @@
 # Write your #display_rainbow method here
 
-display_rainbow=["red","orange", "yellow", "green", "blue", "indigo", "violet"]
 
-def display_rainbow (color list "0", "1", "2", "3", "4", "5", "6")
+def display_rainbow (color list [0], color list [1], color list [2], color list [3], color list [4], color list [5], color list [6])
 puts "the first color is {R: red [0]} "
 puts "the second color is {O: orange [1]}"
 puts "the third color is {Y: yellow [2]}"
